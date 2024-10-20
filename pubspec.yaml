@@ -1,0 +1,25 @@
+name: my_ecommerce_app
+description: A new Flutter project.
+
+# Define el SDK de Dart
+environment:
+  sdk: '^3.5.0'
+
+# Dependencias del proyecto
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Dependencias de Firebase
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.6.0
+  
+  # Cambiar la versión del paquete http
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784442718563",
+    "project_id": "examencomputacionmovil",
+    "storage_bucket": "examencomputacionmovil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784442718563:android:09562bfb59ceddb8803b56",
+        "android_client_info": {
+          "package_name": "examen.computacion_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE_5-BOnwGZxkXiHF5x2yWYyodiiXn7DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
